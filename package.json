@@ -1,0 +1,32 @@
+{
+  "name": "cronm",
+  "version": "0.1.1",
+  "description": "Simple cron manager for Node.js apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimShilov/node-cronm.git"
+  },
+  "keywords": [
+    "cron",
+    "cronjob",
+    "schedule"
+  ],
+  "author": "Tim Shilov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimShilov/node-cronm/issues"
+  },
+  "homepage": "https://github.com/TimShilov/node-cronm#readme",
+  "dependencies": {
+    "getos": "^3.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
