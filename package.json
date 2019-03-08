@@ -21,9 +21,7 @@
     "url": "https://github.com/TimShilov/node-cronm/issues"
   },
   "homepage": "https://github.com/TimShilov/node-cronm#readme",
-  "dependencies": {
-    "getos": "^3.1.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "eslint": "^5.9.0",
     "eslint-config-airbnb-base": "^13.1.0",

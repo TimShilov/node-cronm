@@ -6,7 +6,7 @@ module.exports = {
 	},
 	"extends": "airbnb-base",
 	"parserOptions": {
-		"ecmaVersion": 2016
+		"ecmaVersion": 2018
 	},
 	"rules": {
 		"brace-style": ["error", "1tbs", { "allowSingleLine": false }],
